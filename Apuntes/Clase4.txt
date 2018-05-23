@@ -1,0 +1,5 @@
+npm install boostrap --save
+npm install jquery --save
+npm install popper.js --save
+
+ng2route

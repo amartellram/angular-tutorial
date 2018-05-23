@@ -1,0 +1,31 @@
+Parametros opcionales 
+param function(var(? optional):type = defaultValue)
+ejemplo:
+activar( nombre:string, objeto:string = "batiseñal", momento?:string)
+
+Funcion de flecha
+
+let miFuncionF = a => a;
+
+Es que el this no sea afectado cuando se ejecuta dentro de otra función.
+
+Destructuracion
+
+let {var: alias, var2, var3} : object;
+
+Interfaces:
+interface name {}
+
+clases:
+class name{}
+----------------------------------------------------------
+Modulos en typescript:
+SystemJS
+
+export class name : para ser usada en otros modulos
+
+Decorador:
+Es una funcion cualquiera
+
+@function
+class name

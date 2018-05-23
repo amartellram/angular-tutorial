@@ -1,0 +1,5 @@
+Componentes de la app web , division visual
+Son clases normales con un decorador especifico
+
+ng server -o : start app  y abre app en el navegador 
+ng g c component/name 
